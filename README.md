@@ -1,2 +1,2 @@
 # vita-toolbox2
-Psvita toolbox 2
+PSVita toolbox 2
